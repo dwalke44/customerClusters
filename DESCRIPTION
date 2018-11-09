@@ -1,0 +1,23 @@
+Package: customerClusters
+Type: Package
+Title: Quickly Data Processing, Clustering, and Modeling
+Version: 0.0.0.9000
+Author: Daniel Walker, Ph.D.
+Maintainer: Daniel Walker, Ph.D. <Daniel.Walker@jtv.com>
+Description: This package provides two primary functions. The first will process a numeric dataframe so that it can be
+               entered into clustering or other ML algorithms. The second function can take input from the first,
+               performs HDBSCAN clustering, and then trains a random forest object to model the cluster solution and provide
+               assignment capabilities for new observations.
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: 
+        caret,
+        cluster,
+        devtools,
+        DBI,
+        dbscan, 
+        odbc,
+        randomForest,
+        tidyverse
+RoxygenNote: 6.1.0

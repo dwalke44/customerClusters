@@ -1,0 +1,101 @@
+[0m[0KMicrosoft Windows [Version 10.0.17134.345][0K[?25l
+(c) 2018 Microsoft Corporation. All rights reserved.[0K
+[0K
+C:\Users\danwal1\Documents\Git\customerClusters\customerClusters>[0K[?25hg[0Ki[0Kt[0K[70G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git c[0K[?25hl[0Ko[0Kn[0Kg[0Ke[0K[77G[76G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git clong[0K[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git clon[0K[?25he[0K[76G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git clone h[0K[?25ht[0Ktp[0Ks[0K:[0K/[0K/[0Kg[0Ki[0Kt[0Kh[0Ku[0Kb[0K.[0Kc[0Kom[0K/[0Kd[0Kw[0Ka[0Kl[0Kk[0Ke[0K4[0K4[0K/[0Kc[0Ku[0Ks[0Kt[0Ko[0Km[0Ke[0Kr[0KC[0Kl[0Ku[0Ks[0Kt[0K[0Ke[?25l
+[0K[?25hr[0K[?25l[0K[?25h[?25l[1AC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git clone https://github.com/dwalke44/customerClust[0K
+[0K[1A[117G[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git clone https://github.com/dwalke44/customerClus[0K
+[0K[1A[116G[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git clone https://github.com/dwalke44/customerClu[0K
+[0K[1A[115G[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git clone https://github.com/dwalke44/customerCl[0K
+[0K[1A[114G[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git clone https://github.com/dwalke44/customerC[0K
+[0K[1A[113G[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git clone https://github.com/dwalke44/customer[0K
+[0K[1A[112G[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git clone https://github.com/dwalke44/customerC[0K
+[0K[1A[113G[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git clone https://github.com/dwalke44/customerCl[0K
+[0K[1A[114G[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git clone https://github.com/dwalke44/customerClu[0K
+[0K[1A[115G[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git clone https://github.com/dwalke44/customerClus[0K
+[0K[1A[116G[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git clone https://github.com/dwalke44/customerClust[0K
+[0K[1A[117G[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git clone https://github.com/dwalke44/customerClust[0Ke
+[0K[?25hr[0Ks[0K.[0Kg[0Ki[0Kt[0K]0;  - git  clone https://github.com/dwalke44/customerClusters.git[?25l
+[0K[?25hCloning into 'customerClusters'...[0K[?25l
+[0K[?25hwarning: You appear to have cloned an empty repository.[0K[?25l
+[0K[?25h]0; [?25l
+C:\Users\danwal1\Documents\Git\customerClusters\customerClusters>[0K[1G[?25h[66G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>l[0K[?25hs[0K[?25l
+[0K[?25h'ls' is not recognized as an internal or external command,[0K[?25l
+operable program or batch file.[0K
+[0K
+C:\Users\danwal1\Documents\Git\customerClusters\customerClusters>[0K[?25hg[0Ki[0Kt[0K[70G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[77G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git remote s[0K[?25hho[0Kw[0K[82G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git remote show o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[?25l
+[0K[?25h]0;  - git  remote show origin]0; * remote origin[0K[?25l
+  Fetch URL: https://github.com/dwalke44/customerClusters.git[0K
+  Push  URL: https://github.com/dwalke44/customerClusters.git[0K
+  HEAD branch: (unknown)[0K
+  Local branch configured for 'git pull':[0K
+    master merges with remote master[0K
+[0K
+C:\Users\danwal1\Documents\Git\customerClusters\customerClusters>[0K[?25hg[0Ki[0Kt[0K[70G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git p[0K[?25hu[0Kl[0Kl[0K]0;  - git  pull[?25l
+[0K[?25hYour configuration specifies to merge with the ref 'refs/heads/master'[0K[?25l
+from the remote, but no such ref was fetched.[0K
+[0K[?25h]0; [?25l
+C:\Users\danwal1\Documents\Git\customerClusters\customerClusters>[0K[?25hp[0K[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>[0K[?25hg[0Ki[0Kt[0K[70G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git p[0K[?25hu[0Ks[0Kh[0K]0;  - git  push[?25l
+[0K[?25h]0; error: src refspec refs/heads/master does not match any.[0K[?25l
+[0;31merror: failed to push some refs to 'https://github.com/dwalke44/customerClusters.git'[0m[0K
+[0K
+C:\Users\danwal1\Documents\Git\customerClusters\customerClusters>[0K[?25he[0Kc[0Kh[0Ko[0K[71G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>echo "[0K[?25h#[0K[74G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>echo "# c[0K[?25hu[0Ks[0Kt[0Kom[0Ke[0Kr[0KC[0Kl[0Ku[0Ks[0Kt[0Ke[0Kr[0Ks[0K"[0K[92G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>echo "# customerClusters" ?[0K[?25h?[0K[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>echo "# customerClusters" ?[0K[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>echo "# customerClusters"[0K[92G[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>echo "# customerClusters" /[0K[?25h/[0K[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>echo "# customerClusters" /[0K[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>echo "# customerClusters"[0K[92G[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>echo "# customerClusters" <[0K[?25h<[0K[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>echo "# customerClusters" <[0K[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>echo "# customerClusters"[0K[92G[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>echo "# customerClusters" >[0K[?25h>[0K[95G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>echo "# customerClusters" >> R[0K[?25hE[0KA[0KD[0KM[0KE[0K.[0Km[0Kd[0K[?25l
+[0K
+C:\Users\danwal1\Documents\Git\customerClusters\customerClusters>[0K[?25hg[0Ki[0Kt[0K[70G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git i[0K[?25hn[0Kin[0Kt[0K[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git inin[0K[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git init[0K[?25h]0;  - git  init[?25l
+[0K[?25h]0; Initialized empty Git repository in C:/Users/danwal1/Documents/Git/customerClusters/customerClusters/.git/[0K[?25l
+[0K
+C:\Users\danwal1\Documents\Git\customerClusters\customerClusters>[0K[?25hg[0Ki[0Kt[0K[70G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git a[0K[?25hd[0Kd[0K[74G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git add R[0K[?25hE[0KA[0KD[0KM[0KE[0K.[0Km[0Kd[0K]0;  - git  add README.md[?25l
+[0K[?25h]0; [?25l
+C:\Users\danwal1\Documents\Git\customerClusters\customerClusters>[0K[?25hg[0Ki[0Kt[0K[70G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[77G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git commit -[0K[?25hm[0K[80G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git commit -m "[0K[?25hf[0Ki[0Kr[0Ks[0Kt[0K[87G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git commit -m "first c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K"[0K]0;  - git  commit -m "first commit"[?25l
+[0K[?25h[master (root-commit) eff92b7] first commit[0K[?25l
+ Committer: Walker <danwal1@jewelry.acn>[0K
+Your name and email address were configured automatically based[0K
+on your username and hostname. Please check that they are accurate.[0K
+You can suppress this message by setting them explicitly. Run the[0K
+following command and follow the instructions in your editor to edit[0K
+your configuration file:[0K
+[0K
+    git config --global --edit[0K
+[0K
+After doing this, you may fix the identity used for this commit with:[0K
+[0K
+    git commit --amend --reset-author[0K
+[0K
+ 1 file changed, 1 insertion(+)[0K
+ create mode 100644 README.md[0K
+[0K[?25h]0; [?25l
+C:\Users\danwal1\Documents\Git\customerClusters\customerClusters>[0K[?25hg[0Ki[0Kt[0K[70G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git c[0K[?25ho[0Kn[0Kf[0Ki[0Kg[0K[77G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git config -[0K[?25h-[0Kg[0Kl[0Ko[0Kb[0Ka[0Kl[0K[86G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git config --global -[0K[?25h-[0Ke[0Kd[0Ki[0Kt[0K]0;  - git  config --global --edit[?25l
+[0K[?25hhint: Waiting for your editor to close the file...[0K[52G]0; [?25l[0K
+C:\Users\danwal1\Documents\Git\customerClusters\customerClusters>[0K[?25hg[0Ki[0Kt[0K[70G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git c[0K[?25ho[0Km[0Km[0Km[0Ki[0Kt[0K[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git commmi[0K[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git commm[0K[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git comm[0K[?25hi[0Kt[0K[77G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git commit -[0K[?25ha[0Km[0Ke[0Kn[0Kd[0K[84G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git commit -amend -[0K[?25h-[0Kr[0Ke[0K[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git commit -amend --r[0K[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git commit -amend --[0K[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git commit -amend -[0K[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git commit -amend[0K[84G[?25h[83G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git commit -amen[0K[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git commit -ame[0K[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git commit -am[0K[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git commit -a[0K[?25h[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git commit -[0K[?25h-[0Ka[0Km[0Ke[0Kn[0Kd[0K[85G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git commit --amend -[0K[?25h-[0Kr[0Ke[0Ks[0Ke[0Kt[0K-[0Ka[0Ku[0Kt[0Kh[0Ko[0Kr[0K[?25l
+[0K[?25h]0;  - git  commit --amend --reset-authorhint: Waiting for your editor to close the file...[0K[52G[?25l[0K[?25h]0; [master dee91a4] first commit - customerClusters[0K[?25l
+ Committer: Walker <danwal1@jewelry.acn>[0K
+Your name and email address were configured automatically based[0K
+on your username and hostname. Please check that they are accurate.[0K
+You can suppress this message by setting them explicitly:[0K
+[0K
+    git config --global user.name "Your Name"[0K
+    git config --global user.email you@example.com[0K
+[0K
+After doing this, you may fix the identity used for this commit with:[0K
+[0K
+    git commit --amend --reset-author[0K
+[0K
+ 1 file changed, 1 insertion(+)[0K
+ create mode 100644 README.md[0K
+[0K
+C:\Users\danwal1\Documents\Git\customerClusters\customerClusters>[0K[?25hg[0Ki[0Kt[0K[70G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[77G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git remote a[0K[?25hd[0Kd[0K[81G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git remote add o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[88G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git remote add origin h[0K[?25ht[0Kt[0Kp[0Ks[0K:[0K/[0K/[0Kg[0Ki[0Kt[0Kh[0Ku[0Kb[0K.[0Kc[0Ko[0Km[0K/[0Kd[0Kw[0Ka[0Kl[0Kk[0Ke[0K4[0K4[0K/[0Kc[0K[0Ku[?25l
+[0K[?25hs[0Ktome[0Kr[0KC[0Kl[0Kus[0Kt[0Ke[0Kr[0Ks[0K.[0Kg[0Ki[0Kt[0K]0;  - git  remote add origin https://github.com/dwalke44/customerClusters.git[?25l
+[0K[?25h]0; [?25l
+C:\Users\danwal1\Documents\Git\customerClusters\customerClusters>[0K[?25hg[0Ki[0Kt[0K[70G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git p[0K[?25hu[0Ks[0Kh[0K[75G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git push -[0K[?25hu[0K[78G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git push -u o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[85G[?25lC:\Users\danwal1\Documents\Git\customerClusters\customerClusters>git push -u origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25h]0;  - git  push -u origin masterEnumerating objects: 3, done.[0K[?25l
+Counting objects: 100% (3/3), done.[0K
+Writing objects: 100% (3/3), 244 bytes | 81.00 KiB/s, done.[0K
+Total 3 (delta 0), reused 0 (delta 0)[0K
+[0K[?25hremote:[0K[?25l
+remote: Create a pull request for 'master' on GitHub by visiting:[0K
+remote:      https://github.com/dwalke44/customerClusters/pull/new/master[0K
+remote:[0K
+[0K[?25hTo https://github.com/dwalke44/customerClusters.git[0K[?25l
+ * [new branch]      master -> master[0K
+[0K[?25h]0; Branch 'master' set up to track remote branch 'master' from 'origin'.[0K[?25l
+[0K
+C:\Users\danwal1\Documents\Git\customerClusters\customerClusters>[0K[?25h

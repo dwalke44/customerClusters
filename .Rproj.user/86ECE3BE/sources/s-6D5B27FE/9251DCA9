@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541778795648.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9251DCA9",
+    "lastKnownWriteTime" : 1541778844,
+    "last_content_update" : 1541778844838,
+    "path" : "~/Git/customerClusters/customerClusters/R/new_nccluster_data.R",
+    "project_path" : "R/new_nccluster_data.R",
+    "properties" : {
+        "cursorPosition" : "327,0",
+        "scrollLine" : "282",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
