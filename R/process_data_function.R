@@ -1,3 +1,4 @@
+#' @export
 #' Quickly perform data pre-processing with a command-line interface
 #'
 #' \code{process_data} returns several data frames with various levels of

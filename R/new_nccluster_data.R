@@ -1,3 +1,4 @@
+#' @export
 #' Generate data frame containing new customer data for entire year
 #'
 #'

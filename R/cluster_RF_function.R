@@ -1,4 +1,5 @@
-#' Quickly perform clustering and modeling with a command-line interface
+#' @export
+#'  Quickly perform clustering and modeling with a command-line interface
 #'
 #' \code{perform_clustering} performs Hierarchical DBSCAN clustering on numeric
 #' data. Cluster assignments are then used as the dependent classifier for a
